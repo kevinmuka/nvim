@@ -1,5 +1,5 @@
 return {
-   "03kev/copilot.lua",
+   "kevinmuka/copilot.lua",
    cmd = "Copilot",
    event = "InsertEnter",
 
